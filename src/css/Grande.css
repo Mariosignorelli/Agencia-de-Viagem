@@ -18,8 +18,9 @@
     left: 380px;
     top: -15px;
     border-radius: 50%;
-  
-  
+  }
+  form{
+    display: none;
   }
 .col-g-1 {width: 8.33%;}
 .col-g-2 {width: 16.66%;}

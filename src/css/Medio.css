@@ -17,14 +17,14 @@
 
 .list a{
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     margin: 5px;
     text-decoration: none;
     text-transform: uppercase;
     padding: 5px;
    display: inline-block;    
 }
-form{
+#menu{
     display: none;
 }
 
