@@ -1,0 +1,49 @@
+/*min-width 576 max-width 767*/
+.menu_hd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logo{
+    visibility: hidden;
+}
+.menu_hd h1{
+    font-size: 24px;
+    color:#fff;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+
+.list a{
+    color: #fff;
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 5px;
+    display: none;    
+}
+form select{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    margin-top: -45px;
+  
+}
+
+/*Pequeno*/
+.col-p-1 {width: 8.33%;}
+.col-p-2 {width: 16.66%;}
+.col-p-3 {width: 25%;}
+.col-p-4 {width: 33.33%;}
+.col-p-5 {width: 41.66%;}
+.col-p-6 {width: 50%;}
+.col-p-7 {width: 58.33%;}
+.col-p-8 {width: 66.66%;}
+.col-p-9 {width: 75%;}
+.col-p-10 {width: 83.33%;}
+.col-p-11 {width: 91.66%;}
+.col-p-12 {width: 100%;}
